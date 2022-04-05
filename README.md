@@ -1,4 +1,5 @@
-#App Screenshot
+# App Screenshot
+
 ![Screenshot](social-cards.jpeg)
 
 # Getting Started with Create React App
